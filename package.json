@@ -4,6 +4,7 @@
   "description": "A generic plugin management system for Node.js",
   "main": "index.js",
   "directories": {
+    "example": "examples",
     "test": "test"
   },
   "scripts": {
@@ -20,5 +21,13 @@
   },
   "devDependencies": {
     "mocha": "^2.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prodio-pm/plugger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prodio-pm/plugger/issues"
+  },
+  "homepage": "https://github.com/prodio-pm/plugger"
 }
